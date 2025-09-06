@@ -1,5 +1,10 @@
 # 🏡 House Price Analysis – Exploratory Data Analysis (EDA)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue) 
+![Pandas](https://img.shields.io/badge/Pandas-2.2.2-yellow) 
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-green) 
+
+
 ## 📌 Project Overview
 This project performs an **Exploratory Data Analysis (EDA)** on a housing prices dataset to uncover key factors that influence property values.  
 The goal is to understand pricing trends, detect outliers, and identify significant predictors of housing prices, laying the foundation for **predictive modeling**.  
