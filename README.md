@@ -78,8 +78,10 @@ Steps performed before analysis:
 ## 📂 Repository Structure
 ├── `House_Price_EDA.ipynb` → Full analysis notebook  
 ├── `requirements.txt` → Python dependencies  
-├── `house_price_plot.png` → Sample visualization (optional)  
-└── `README.md` → Project documentation  
+├── `condition_vs_price.png` → Visualization (Condition vs Price)  
+├── `correlation_heatmap.png` → Visualization (Correlation Heatmap)  
+├── `house_price_plot.png` → Visualization (Living Area vs Price)  
+└── `README.md` → Project documentation   
 
 ---
 
@@ -105,15 +107,7 @@ Steps performed before analysis:
 - scikit-learn==1.5.1  
 - jupyter==1.0.0
 
----
 
-## 📂 Repository Structure
-├── `House_Price_EDA.ipynb` → Full analysis notebook  
-├── `requirements.txt` → Python dependencies  
-├── `condition_vs_price.png` → Visualization (Condition vs Price)  
-├── `correlation_heatmap.png` → Visualization (Correlation Heatmap)  
-├── `house_price_plot.png` → Visualization (Living Area vs Price)  
-└── `README.md` → Project documentation  
 
 
 
