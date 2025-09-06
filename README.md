@@ -62,7 +62,7 @@ Steps performed before analysis:
 ![Correlation Heatmap](correlation_heatmap.png)
 
 **Living Area vs Price**
-![House Price vs Living Area](House%20Price%20vs%20Living%20Area_Visualization.png)
+![Living Area vs Price](house_price_plot.png)
 
 
 ---
