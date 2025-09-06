@@ -48,7 +48,7 @@ Steps performed before analysis:
 - **Heatmap** – Correlation matrix of numerical features  
 
 📷 *Example Visualization*  
-![image](https://github.com/yourusername/yourrepo/blob/main/images/dashboard.png)
+![image]([https://github.com/yourusername/yourrepo/blob/main/images/dashboard.png](https://github.com/Poornima044/House-price-analysis/blob/main/House%20Price%20vs%20Living%20Area_Visualization.png))
 
 
 ---
