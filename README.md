@@ -52,15 +52,17 @@ Steps performed before analysis:
 - **Boxplots** – Neighborhood vs. Price (outliers & spread)  
 - **Heatmap** – Correlation matrix of numerical features  
 
+
 ### 📊 Sample Visualizations
 
-| Price Distribution | Living Area vs Price |
-|--------------------|----------------------|
-| ![Distribution](price_distribution.png) | ![Scatter](house_price_vs_living_area.png) |
+**Condition vs Price**
+![Condition vs Price](condition_vs_price.png)
 
-| Neighborhood vs Price | Correlation Heatmap |
-|-----------------------|----------------------|
-| ![Boxplot](neighborhood_boxplot.png) | ![Heatmap](correlation_heatmap.png) |
+**Correlation Heatmap**
+![Correlation Heatmap](correlation_heatmap.png)
+
+**Living Area vs Price**
+![Living Area vs Price](house_price_plot.png)
 
 
 ---
