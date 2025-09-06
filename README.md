@@ -52,9 +52,15 @@ Steps performed before analysis:
 - **Boxplots** – Neighborhood vs. Price (outliers & spread)  
 - **Heatmap** – Correlation matrix of numerical features  
 
-📷 *Example Visualization*  
-![House Price vs Living Area](House%20Price%20vs%20Living%20Area_Visualization.png)
+### 📊 Sample Visualizations
 
+| Price Distribution | Living Area vs Price |
+|--------------------|----------------------|
+| ![Distribution](price_distribution.png) | ![Scatter](house_price_vs_living_area.png) |
+
+| Neighborhood vs Price | Correlation Heatmap |
+|-----------------------|----------------------|
+| ![Boxplot](neighborhood_boxplot.png) | ![Heatmap](correlation_heatmap.png) |
 
 
 ---
@@ -84,6 +90,9 @@ Steps performed before analysis:
    ```bash
    jupyter notebook House_Price_EDA.ipynb
 4. Run all cells to reproduce the analysis
+
+---
+
 
 ## 🛠️ Dependencies
 ### 📦 Requirements
