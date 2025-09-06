@@ -48,7 +48,7 @@ Steps performed before analysis:
 - **Heatmap** – Correlation matrix of numerical features  
 
 📷 *Example Visualization*  
-![Price vs Living Area](house_price_plot.png) *(replace with your own plot if available)*  
+![Price vs Living Area](house_price_plot.png)
 
 ---
 
@@ -73,4 +73,19 @@ Steps performed before analysis:
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
-v
+3. Open the notebook:
+   ```bash
+   jupyter notebook House_Price_EDA.ipynb
+4. Run all cells to reproduce the analysis
+
+## 🛠️ Dependencies
+### 📦 Requirements
+- pandas==2.2.2  
+- numpy==1.26.4  
+- matplotlib==3.9.2  
+- seaborn==0.13.2  
+- scikit-learn==1.5.1  
+- jupyter==1.0.0  
+
+
+
